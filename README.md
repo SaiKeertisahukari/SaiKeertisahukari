@@ -1,56 +1,93 @@
 # 👋 Hi there, I'm Sai Keerti Sahukari
 
-🎓 I'm a final-year B.Tech student in Electrical and Electronics Engineering at NIT Andhra Pradesh with a minor in Software Engineering (CGPA: 9.27). I'm passionate about building intelligent systems, solving real-world problems, and applying engineering creatively.
+🎓 I graduated with a **B.Tech in Electrical and Electronics Engineering** from **National Institute of Technology (NIT) Andhra Pradesh**, along with a **Minor in Software Engineering**, graduating with a **CGPA of 9.27**. I am currently working as a **Software Developer Intern at IBM**, where I contribute to backend systems, AI-driven applications, and scalable software solutions.
+
+I'm passionate about building intelligent systems, solving real-world problems, and applying engineering to create impactful technology.
 
 ---
 
 ## 🔧 Technical Proficiencies
-- **Languages**: Python, C, C++, Java, JavaScript, TypeScript
-- **Web Development**: HTML, CSS, Node.js, Express.js
-- **Frameworks & Tools**: Flask, Tkinter, TensorFlow, Keras, OpenCV, PyTorch
-- **Databases**: MongoDB, PostgreSQL
-- **Hardware & Tools**: MATLAB, STM32, Arduino IDE
+
+* **Languages:** Python, C, C++, Java, JavaScript, TypeScript
+* **Web Development:** HTML, CSS, Node.js, Express.js
+* **AI & Machine Learning:** TensorFlow, PyTorch, Keras, OpenCV, LangChain, RAG, LLMs
+* **Frameworks & Tools:** Flask, FastAPI, Tkinter, Docker, Git, Redis
+* **Databases:** MongoDB, PostgreSQL
+* **Cloud & DevOps:** Docker, Kubernetes, OpenShift
+* **Hardware & Embedded Systems:** MATLAB, STM32, Arduino IDE
 
 ---
 
 ## 🧠 Areas of Interest
-- Machine Learning & Deep Learning
-- Generative AI (LangChain, RAG, LLMs)
-- Web Development
-- Renewable Energy & IoT Systems
+
+* Artificial Intelligence & Generative AI
+* Machine Learning & Deep Learning
+* Backend & Distributed Systems
+* Agentic AI, LangChain & RAG
+* Cloud Computing & Scalable Software
+* Renewable Energy & IoT Systems
 
 ---
 
 ## 💼 Experience
 
-**🔍 Face Recognition Intern – NIT Warangal**  
-Developed a high-accuracy face recognition system using TensorFlow & OpenCV (93% accuracy)
+### 💻 Software Developer Intern – IBM *(Current)*
 
-**🐍 Python Developer Intern – Codespeedy**  
-Built GUI apps with Tkinter: login systems, email validation, and basic biometric functionality
+* Developing backend services and REST APIs using **Python, FastAPI, Node.js, and TypeScript**
+* Working on **AI-powered data observability solutions**, schema management, and evaluation pipelines
+* Building scalable services integrating **LLMs, Redis, RabbitMQ, Kafka, MongoDB, and watsonx**
+* Contributing to production-grade software through feature development, debugging, testing, and code reviews
+
+### 🔍 Face Recognition Intern – NIT Warangal
+
+* Developed a high-accuracy face recognition system using **TensorFlow** and **OpenCV**, achieving **93% accuracy**
+* Improved facial detection and recognition performance through image preprocessing and deep learning techniques
+
+### 🐍 Python Developer Intern – Codespeedy
+
+* Developed desktop GUI applications using **Tkinter**
+* Built projects including login authentication systems, email validation, and biometric-based applications
 
 ---
 
 ## 🚀 Projects
 
-- **🧠 Smart Heart Monitoring System** – Real-time stroke prediction using logistic regression (96% accuracy)
-- **🌍 Land Segmentation** – Transformer-based segmentation of satellite imagery using SegFormer B3
-- **🚦 Traffic Monitoring System** – Adaptive closed-loop traffic light control for reduced emissions
-- **📘 NIT-AP EEE Website** *(ongoing)* – Full front-end design with interactive features and dynamic content
+### 🧠 Smart Heart Monitoring System
+
+Developed a real-time stroke prediction system using Logistic Regression, achieving **96% prediction accuracy**.
+
+### 🌍 Land Segmentation
+
+Implemented transformer-based semantic segmentation of satellite imagery using **SegFormer-B3** for land cover classification.
+
+### 🚦 Traffic Monitoring System
+
+Designed an adaptive closed-loop traffic signal control system to reduce congestion, travel time, and vehicle emissions.
+
+### 📘 NIT-AP EEE Website
+
+Designed and developed an interactive frontend website for the EEE Department featuring dynamic content and improved user experience.
 
 ---
 
 ## 📜 Certifications
-- NVIDIA: Fundamentals of Deep Learning, NLP with Formers
-- NPTEL: Internet of Things (IoT)
+
+* NVIDIA – Fundamentals of Deep Learning
+* NVIDIA – NLP with Transformers
+* NPTEL – Internet of Things (IoT)
 
 ---
 
 ## 🔗 Connect with Me
-- 📫 Email: [saikeertisahu1972@gmail.com](mailto:saikeertisahu1972@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sai-keerti-sahukari-b86b592b1](https://linkedin.com/in/sai-keerti-sahukari-b86b592b1)
-- 💻 GitHub: [github.com/SaiKeertisahukari](https://github.com/SaiKeertisahukari)
+
+📫 **Email:** [saikeertisahu1972@gmail.com](mailto:saikeertisahu1972@gmail.com)
+
+💼 **LinkedIn:** linkedin.com/in/sai-keerti-sahukari-b86b592b1
+
+💻 **GitHub:** github.com/SaiKeertisahukari
 
 ---
 
-🌱 *Currently exploring advanced LLM use cases, vector databases, and scalable backend systems. Always open to learning, collaborating, and building impactful tech.*
+🌱 **Currently exploring** Agentic AI, LangChain, MCP Servers, Retrieval-Augmented Generation (RAG), vector databases, large language models, and scalable backend systems while gaining hands-on industry experience at IBM.
+
+Always open to learning, collaborating, and building impactful technology.
