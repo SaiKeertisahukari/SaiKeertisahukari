@@ -10,10 +10,10 @@ I'm passionate about building intelligent systems, solving real-world problems, 
 
 * **Languages:** Python, C, C++, Java, JavaScript, TypeScript
 * **Web Development:** HTML, CSS, Node.js, Express.js
-* **AI & Machine Learning:** TensorFlow, PyTorch, Keras, OpenCV, LangChain, RAG, LLMs
+* **AI & Machine Learning:** TensorFlow, PyTorch, Keras, OpenCV
 * **Frameworks & Tools:** Flask, FastAPI, Tkinter, Docker, Git, Redis
 * **Databases:** MongoDB, PostgreSQL
-* **Cloud & DevOps:** Docker, Kubernetes, OpenShift
+* **Cloud & DevOps:** Docker, Kubernete
 * **Hardware & Embedded Systems:** MATLAB, STM32, Arduino IDE
 
 ---
